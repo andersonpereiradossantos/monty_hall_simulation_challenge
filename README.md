@@ -26,7 +26,7 @@ This project is shared under the MIT license. You are free to modify and use it 
 
 ## Articles
 
-* [Simulação do Problema de Monty Hall utilizando Python](https://www.linkedin.com/pulse/jogo-da-velha-invenc%C3%ADvel-em-javascript-pereira-dos-santos-ctfl-fhcxf)
+* [Simulação do Problema de Monty Hall utilizando Python](https://www.linkedin.com/pulse/simula%C3%A7%C3%A3o-do-problema-de-monty-hall-utilizando-python-anderson-ybiwf/)
 
 ## Author
 
